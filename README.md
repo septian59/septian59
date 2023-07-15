@@ -8,7 +8,7 @@ Bissmillah Fullstack web developer.....
 
 ## Current activity
 
-- 🌱 I’m currently learning PHP Laravel, JavaScript Express, VueJS
+- 🌱 I’m currently learning PHP Laravel, Node Js, React Js
 - 💼 I have a bachelor's degree in informatics engineering
 - 📫 See my Linkedin https://www.linkedin.com/in/septian-primansyah59/ to get more info
 
